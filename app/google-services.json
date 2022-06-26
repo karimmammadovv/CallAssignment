@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83211700638",
+    "project_id": "callingproject-88b02",
+    "storage_bucket": "callingproject-88b02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83211700638:android:0f9466c7f05bfd2325ae8f",
+        "android_client_info": {
+          "package_name": "com.karimmammadov.callingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83211700638-0fnkl295ch8laol32bmndcei5c6ljia5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlUvdVWNnwztkP0dkQT-16opaVSAp_yz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83211700638-0fnkl295ch8laol32bmndcei5c6ljia5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
